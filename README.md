@@ -55,9 +55,13 @@ This project is built using a **custom MCP (Mail Communication Protocol) server*
 
 - ✅ Post published on LinkedIn with custom message (see screenshot)
 - ✅ Email sent to employer with:
-  - LinkedIn profile data
-  - Custom cover letter
-  - Subject & content properly formatted
+  - LinkedIn post creation
+    <img width="1920" height="1080" alt="Screenshot 2025-08-04 230321" src="https://github.com/user-attachments/assets/32959dbb-ecf5-4600-85e5-0dca92a39e43" />
+    <img width="1902" height="927" alt="Screenshot 2025-08-04 230505" src="https://github.com/user-attachments/assets/214b8bc1-a700-4664-b685-82cfa8a406f1" />
+
+  - mail sent using the linkedin data
+    <img width="1915" height="815" alt="Screenshot 2025-08-04 232210" src="https://github.com/user-attachments/assets/ec48bff3-ce44-4f9a-8b53-2180a684d104" />
+    <img width="1920" height="1080" alt="Screenshot 2025-08-04 232344" src="https://github.com/user-attachments/assets/c7bc97ff-d286-44c0-80b0-9097a3868dbd" />
 
 ---
 
